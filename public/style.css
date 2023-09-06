@@ -1,0 +1,42 @@
+body {
+    height: 100vh;
+    background: linear-gradient(to left, grey, purple, pink);
+    color: rgb(246, 53, 246);
+    text-align: center;
+    text-shadow: grey;
+  }
+  button {
+   background-color: rgba(244, 176, 244, 0.822);
+   border-radius: 1em;
+   border: 1px rgb(102, 99, 97) solid;
+   color:rgb(43, 35, 29);
+   padding: 0.5em;
+   margin: 1px;
+  }
+  input {
+    background-color: rgb(247, 223, 238);
+    border-radius: 1em;
+    border: 1px rgb(102, 100, 99) solid;
+    color: rgb(68, 54, 43);
+    padding: 0.5em;
+    margin: 2px;
+   }
+   h1 {
+    color: rgb(195, 3, 195);
+   }
+   h2 {
+    background-color: rgba(213, 25, 204, 0.641);
+    color: burlywood;
+   }
+  section {
+    background-color: blanchedalmond;
+    width: 50%;
+    border-radius: 2px;
+    border: 1px rgb(131, 69, 69) solid;
+    padding: 1em;
+    margin: 15px auto; 
+    box-shadow: black;
+  }
+  p {
+    color: rgb(67, 59, 59);
+  }
